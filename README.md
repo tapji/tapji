@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tapji
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning MLOps
+- 🌱 I’m currently learning MLOps & Data Engineering
 - 💞️ I’m looking to collaborate on data science projects (especially transport related)
 - 📫 How to reach me tapjibitrus@gmail.com
 
